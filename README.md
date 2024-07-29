@@ -1,6 +1,6 @@
 # react-nodes-docker
 
-Image for react-nodejs-remote
+Image for react-no
 
 
 1st
